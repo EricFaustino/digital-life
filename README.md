@@ -1,4 +1,7 @@
 Sistema-Web
+
+https://digitallifeschool.azurewebsites.net
+
 Sistema desenvolvido para a faculdade, integrantes do grupo:
 
 Alex Ribeiro Da França - 413200919
@@ -8,4 +11,4 @@ Danila Pires - 3330108031
 Marcus Vinicius Biciatto da Silva	  -	2220200927
 Pedro Henrique Moraes da Conceição	-	420110164
 Pedro Henrique Matos Roque	    -	420107298 
-Rafael Oliveira - 420107586
+Rafael Oliveira de Lima - 420107586
