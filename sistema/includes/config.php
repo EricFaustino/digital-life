@@ -1,9 +1,9 @@
 <?php
 
-$host = 'localhost';
-$user = 'root';
-$db = 'sistema_escolar';
-$pass = '';
+$host = 'sql308.epizy.com';
+$user = 'epiz_30533349';
+$db = 'epiz_30533349_digital_life';
+$pass = 'zvJpyyqZApF2';
 
     try {
         $pdo = new PDO('mysql:host='.$host.';dbname='.$db.';charset=utf8',$user,$pass);
