@@ -1,6 +1,6 @@
 Sistema-Web
 
-https://digitallifeschool.azurewebsites.net
+https://digital-life-school.herokuapp.com/
 
 Sistema desenvolvido para a faculdade, integrantes do grupo:
 
